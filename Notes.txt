@@ -1,2 +1,12 @@
-Q1 Which district is the cheapest for 100 selected items?
-Q2 Which district is the most expensive for 100 selected items?
+
+# Meta data
+1. List of items and their item_code
+2. List of districts and their states
+
+Q1: Which is the most cheapest/expensive state? (per item, per 100 items)
+Q2: Which state has the most varied price (per item, per 100 items)
+Q3: Is it true that prices are cheaper compared (PHBN vs PN)
+
+What is the mean/average price for item X for the whole of Malaysia?
+What is the mean/average price for item X for the whole of Semenanjung Malaysia?
+What is the mean/average price for item X for the whole of East Malaysia?
